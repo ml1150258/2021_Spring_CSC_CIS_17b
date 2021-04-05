@@ -34,39 +34,24 @@ Survey Menu
 			Create
 			Exit to Login
 			
-Store Front Menu
+Time Logger Menu
 	Admin
-		View Users
+		View Users - Students vs. Instructors
 			Delete
 			Edit
 			Return to Menu
-		View Catalog
-			Delete
+		View Results
+			Filter by Class
+			Filter by Student
+		View Table Elements
+		    Delete
 			Add
 			Edit
-			Return to Menu
-		View User Orders
-			Edit
-				In-Process
-				Shipped
-		View Inventory
-			Delete
-			Add
-			Return to Menu
 	User
 		Login
-			View Catalog
-				Choose 1 Item and Display Details
-					Display Quantity/Modify to Purchase
-					Return to Menu
-			View Shopping Cart
-					Purchase
-					Edit Cart
-						Add or Delete Items
-					Return to Menu
-			View Account
-				Edit Account Details
-				Return to Menu
+			View Time
+			   Individual Dates
+			   Cumulative hours
 			Exit
 		Create Account
 			Create
